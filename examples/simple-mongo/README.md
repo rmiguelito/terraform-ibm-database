@@ -1,6 +1,6 @@
 # Simple Database
 
-This example is used to provision  simple `databases for elasticsearch`  Database on IBM Cloud Infrastructure.
+This example is used to provision databases-for-mongodb Database on IBM Cloud Infrastructure.
 
 ## Example Usage
 ```
